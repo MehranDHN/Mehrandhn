@@ -13,3 +13,7 @@ Normal paragraph
 - First.
 - Second **Item** with bold word.
 - Third Item with **Bold Words**.
+
+<div dir="rtl">
+## افزودن اطلاعات فارسی
+</div>
