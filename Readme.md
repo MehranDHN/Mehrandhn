@@ -20,6 +20,7 @@ All projects share these priorities:
 - **Machine + Human Usability** — SPARQL-ready graphs + friendly viewers (Mirador).
 - **Ethical & Community-Driven** — Open access, provenance respect, volunteer collaboration, Persian-language support.
 - **Persian Heritage Focus** — Qajar era, Shahnameh, historical photography, architecture, genealogy (FHKB integration).
+![Banner](banner.jpg)
 
 ## 📂 Featured Projects
 
