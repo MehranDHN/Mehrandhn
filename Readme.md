@@ -22,7 +22,7 @@ All projects share these priorities:
 - **Machine + Human Usability** — SPARQL-ready graphs + friendly viewers (Mirador).
 - **Ethical & Community-Driven** — Open access, provenance respect, volunteer collaboration, Persian-language support.
 - **Ontology-based Approach** — Ontology as an exellent roadmap.
-- **Persian Heritage Focus** — Limited scopped project with integration allof them as a huge the Persian national Archive Knowledge Graph.
+- **Persian Heritage Focus** — Limited scoppe projects with integration all of them as a huge the Persian national Archive Knowledge Graph in mind.
   
 ![Banner](banner.jpg)
 
