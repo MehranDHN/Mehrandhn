@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![IIIF](https://img.shields.io/badge/IIIF-Compliant-blue)
 ![RDF](https://img.shields.io/badge/RDF-Knowledge%20Graph-purple)
+![CIDOC-CRM](https://img.shields.io/badge/CIDOC--CRM-Compliant-orange)
+![OWL](https://img.shields.io/badge/OWL-2-blueviolet)
 ![Persian Heritage](https://img.shields.io/badge/Focus-Persian%20Heritage-red)
 
 **Making Persian Cultural Heritage Accessible, Interoperable, and Alive through Open Standards**
@@ -19,7 +21,9 @@ All projects share these priorities:
 - **Reunification** — Virtual reconstruction of dispersed collections (e.g., Shah Tahmasp folios, Qajar documents).
 - **Machine + Human Usability** — SPARQL-ready graphs + friendly viewers (Mirador).
 - **Ethical & Community-Driven** — Open access, provenance respect, volunteer collaboration, Persian-language support.
-- **Persian Heritage Focus** — Qajar era, Shahnameh, historical photography, architecture, genealogy (FHKB integration).
+- **Ontology-based Approach** — Ontology as an exellent roadmap.
+- **Persian Heritage Focus** — Limited scopped project with integration allof them as a huge the Persian national Archive Knowledge Graph.
+  
 ![Banner](banner.jpg)
 
 ## 📂 Featured Projects
